@@ -1,0 +1,10 @@
+{
+  "name": "mode-to-permissions",
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "version": "0.0.0",
+  "description": "Convert file mode numeral to a convenient object describing file permissions",
+  "main": "./lib/mode-to-permissions.js",
+  "scripts": {
+    "test": "node test/mode-to-permissions-test.js"
+  }
+}
