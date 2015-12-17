@@ -1,7 +1,7 @@
 {
   "name": "mode-to-permissions",
   "author": "Maciej Małecki <me@mmalecki.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert file mode numeral to a convenient object describing file permissions",
   "main": "./lib/mode-to-permissions.js",
   "repository": "mmalecki/mode-to-permissions",
