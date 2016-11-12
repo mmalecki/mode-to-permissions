@@ -4,7 +4,7 @@ Convert file mode numeral to a convenient object describing file permissions.
 ## Usage
 ```js
 var modeToPermissions = require('mode-to-permissions');
-console.dir(modeToPermissiones(0777));
+console.dir(modeToPermissions(0777));
 ```
 
 Outputs:
